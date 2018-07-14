@@ -3,7 +3,6 @@
     "description": "laravel 5 http",
     "type": "package",
     "license":"MIT",
-    "version":"1.0.0",
     "authors": [
         {
             "name": "tianshuo feng",
@@ -26,6 +25,5 @@
     "require": {
         "php": ">=5.4",
         "guzzlehttp/guzzle": "~6.0"
-    },
-    "minimum-stability": "dev"
+    }
 }
