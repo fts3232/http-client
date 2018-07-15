@@ -2,7 +2,11 @@
     "name": "fts/http-client",
     "description": "laravel 5 http",
     "type": "package",
-    "license":"MIT",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "http request"
+    ],
     "authors": [
         {
             "name": "tianshuo feng",
