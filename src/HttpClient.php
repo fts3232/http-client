@@ -40,7 +40,7 @@ class HttpClient
             'timeout' => 5, //返回响应超时时间
             'connect_timeout' => 5, //链接超时时间
             'query' => [],//get参数
-            'form_params' => [],//form表单参数
+            //'form_params' => [],//form表单参数
             'body' => '', //主体部分
             'auth' => [], //认证信息
             /*'multipart' => [//multipart/form-data 表单参数
