@@ -10,6 +10,6 @@
 ### 添加服务提供者
 打开 `config/app.php` 并添加以下内容到 providers 数组:
     
-    fts\HttpClientServiceProvider.php::class
+    fts\HttpClient\HttpClientServiceProvider.php::class
 # 用法
     http_request($type, $url, $options = array())
